@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;    
+}
+div{
+    padding-left:25%;
+    padding-right:25%;
+}
+a{
+    text-decoration:none;
+}
+img{
+    float:left;
+    margin:0px 15px 0px 0px;
+}
+#new{
+    background-color: green; 
+    
+}
+#new>a{
+    color:white;
+    padding:0px 50px;
+}
